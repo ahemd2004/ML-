@@ -9,6 +9,7 @@ import streamlit as st
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
+from streamlit import streamlit as st
 
 # -----------------------------
 # Streamlit App Config
